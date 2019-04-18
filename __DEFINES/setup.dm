@@ -1021,6 +1021,7 @@ var/default_colour_matrix = list(1,0,0,0,\
 #define STATION_Z  1
 #define CENTCOMM_Z 2
 #define TELECOMM_Z 3
+#define DERELICT_Z 4
 #define ASTEROID_Z 5
 
 // canGhost(Read|Write) flags
@@ -1492,6 +1493,7 @@ var/proccalls = 1
 #define HOLOMAP_FILTER_STATIONMAP				32
 #define HOLOMAP_FILTER_STATIONMAP_STRATEGIC		64//features markers over the captain's office, the armory, the SMES
 #define HOLOMAP_FILTER_CULT						128//bloodstone locators
+#define HOLOMAP_FILTER_CREW						256//crew monitoring console
 
 #define HOLOMAP_AREACOLOR_COMMAND		"#447FC299"
 #define HOLOMAP_AREACOLOR_SECURITY		"#AE121299"
