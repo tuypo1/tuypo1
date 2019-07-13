@@ -5,4 +5,4 @@
 	name = "Minimise casualties"
 
 /datum/objective/sabotage_department/IsFulfilled()
-return TRUE
+	return TRUE
