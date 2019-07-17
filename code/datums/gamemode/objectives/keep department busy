@@ -1,71 +1,62 @@
-/datum/objective/keepbusy_department
+/datum/objective/keepbusy_command
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep command busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep command busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_command/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_security
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep security busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep security busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_security/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_engineering
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep engineering busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep engineering busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_engineering/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_cargo
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep cargo busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep cargo busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_cargo/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_medical
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep medical busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep medical busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_medical/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_science
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep science busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep science busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_science/IsFulfilled()
 	return TRUE
   
-  /datum/objective/keepbusy_department
+  /datum/objective/keepbusy_service
 	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	explanation_text = "deep service and the civilian workers busy to damage their morale, do not give them a moments rest"
 	var/force_success = FALSE
-	name = "keep department busy"
+	name = "keep service busy"
 
-/datum/objective/keepbusy_department/IsFulfilled()
-	return TRUE
-  
-  /datum/objective/keepbusy_department
-	var/datum/mind/owner = TRUE
-	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
-	var/force_success = FALSE
-	name = "keep department busy"
-
-/datum/objective/keepbusy_department/IsFulfilled()
+/datum/objective/keepbusy_service/IsFulfilled()
 	return TRUE
