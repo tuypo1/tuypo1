@@ -1,0 +1,71 @@
+/datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
+  
+  /datum/objective/keepbusy_department
+	var/datum/mind/owner = TRUE
+	explanation_text = "deep [department] busy to damage their morale, do not give them a moments rest"
+	var/force_success = FALSE
+	name = "keep department busy"
+
+/datum/objective/keepbusy_department/IsFulfilled()
+	return TRUE
